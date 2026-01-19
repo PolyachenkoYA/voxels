@@ -1,0 +1,4 @@
+/home/yp1065/brd4/voxels/build/CMakeFiles/rebuild_cache.dir
+/home/yp1065/brd4/voxels/build/CMakeFiles/edit_cache.dir
+/home/yp1065/brd4/voxels/build/CMakeFiles/voxels.dir
+/home/yp1065/brd4/voxels/build/CMakeFiles/voxels.so.dir

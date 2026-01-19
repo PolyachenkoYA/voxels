@@ -1,0 +1,7 @@
+# ninja log v5
+5352	6077	1701827555000000000	voxels	63c99a2f699d4e06
+3480	6221	1701654637000000000	voxels.so.so	42fb9d465ebc99b6
+24	2301	1701827551000000000	CMakeFiles/voxels.dir/main.cpp.o	1def2c2440ef8381
+25	5347	1701827554000000000	CMakeFiles/voxels.dir/voxels.cpp.o	5da50bff4cbead7e
+20	3476	1701654634000000000	CMakeFiles/voxels.so.dir/voxels_py.cpp.o	8faca8a09fd6b402
+20	2875	1701654634000000000	CMakeFiles/voxels.so.dir/voxels.cpp.o	8cf50502c6c2cad3
